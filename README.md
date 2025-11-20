@@ -58,6 +58,7 @@ The app does not call any real backend or use network images, so it works offlin
 
 ```dart
 Future<String> generate(String prompt)
+```
 
 <img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-11-20 at 23 45 24" src="https://github.com/user-attachments/assets/0ceaf4d7-eefd-4025-a771-cb16a11fa1e3" />
 <img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-11-20 at 23 45 12" src="https://github.com/user-attachments/assets/c30bb8a0-6ce3-488d-80e6-9b794b5f1631" />
